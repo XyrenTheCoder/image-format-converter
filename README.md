@@ -2,7 +2,7 @@
 A simple image format converter.
 
 ## formats
-currently supports:
+Currently supports:
 - jpg
 - png
 - gif
